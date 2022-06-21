@@ -42,37 +42,37 @@ Daily Dairy
 
 **Week 3 : 18 February to 28 February**
 
-## Day 8:File Handling
+## Day 1:File Handling
 - Worked on the various operations of file .
 
-## Day 9: Miscellaneous 
+## Day 2: Miscellaneous 
  - Learnt HTTPS requests, protected private functions 
 
-## Day 10: Inheritance 
+## Day 3: Inheritance 
 - Implemented inheritance and understood why inheritance needs to be implemented.
 
-## Day 11:Argument Parsing
+## Day 4:Argument Parsing
 - Explored argument parsing , exception handling.
     
-## Day 12: Threading
+## Day 5: Threading
 - Implemented threading in program . Learnt the importance of threading in an application.
 
-## Day 13: Web Scratching 
+## Day 6: Web Scratching 
 - Did web scratching , HTTP Parsing , BeautifulSoup.
 
-## Day14: MySQL
+## Day 7: MySQL
 - Implemented SQL crude operations 
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------->
 
  **Week 4 : 1 March to 9 March**
-## Day15: Tkinter 
+## Day 1: Tkinter 
 - Explored various GUI compnents .designed various app’s GUI.
-## Day 16: MongoDB
+## Day 2: MongoDB
 - Explored mongoDB database and did all crude operation
-## Day 17: Flask
+## Day 3: Flask
 - Introduction to Flask
-## Day 18:Web Development 
+## Day 4:Web Development 
 - Web development using flask using MongoDB.
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------->
