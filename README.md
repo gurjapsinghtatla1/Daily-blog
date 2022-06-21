@@ -14,16 +14,14 @@ Daily Dairy
     Day 4: Data Structures in python
         - Create multi-value container object in JS. Use it to store the common data of multiple objects. Implement getter and setter for an object
 
-.
-<br>
     Day 5: Operators
         Explored various operators 
 .
-<br>
+
     Day 6: Conditional Statements
        Explored various conditional statement , built a shopping cart doc program using conditional statements
 .
-<br>
+
     Day 7: Recursion
        Learnt the importance of recursion , robust code.
 .
