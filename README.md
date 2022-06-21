@@ -4,13 +4,13 @@ Daily Dairy
 
 
  **Week 1: 31 January to 8 February**
- ## Day 1:Introduction-    
- - Introduction to company Discussed about programming languages  scope in near future  
- ## Day 2:Tour Of python 3.0
- - Basic paradigm followed by python
- ## Day 3:Documentation ,Models 
+## Day 1:Introduction-    
+- Introduction to company Discussed about programming languages  scope in near future  
+## Day 2:Tour Of python 3.0
+- Basic paradigm followed by python
+## Day 3:Documentation ,Models 
 - Learned the importance of documentation in the code , Implemented the model.
- ## Day 4: Data Structures in python
+## Day 4: Data Structures in python
  - Create multi-value container object in JS. Use it to store the common data of multiple objects. Implement getter and setter for an object
 ## Day 5: Operators
 - Explored various operators 
@@ -60,13 +60,13 @@ Daily Dairy
 ## Day 13: Web Scratching 
 - Did web scratching , HTTP Parsing , BeautifulSoup.
 
- ## Day14: MySQL
+## Day14: MySQL
 - Implemented SQL crude operations 
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------->
 
  **Week 4 : 1 March to 9 March**
- ## Day15: Tkinter 
+## Day15: Tkinter 
 - Explored various GUI compnents .designed various app’s GUI.
 ## Day 16: MongoDB
 - Explored mongoDB database and did all crude operation
