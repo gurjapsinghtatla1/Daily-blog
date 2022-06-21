@@ -23,14 +23,14 @@ Daily Dairy
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 **Week 2 : 9 February to 17 February**
- ## Day 1: Introduction to OOPS
-  - Introduction to Object Oriented Programming methodology ,creating objects ,relations etc
-  ## Day 2: Sequences in python
-  - Worked on various operations like intersection , difference etc
-  ## Day 3: Linked-List Data Structure
-   - Create Linked-List Data Structure.implemented various operations on it  
-  ## Day 4: Class and Object
-   - Had a understanding of creating a class and learnt the difference between class and object.
+## Day 1: Introduction to OOPS
+- Introduction to Object Oriented Programming methodology ,creating objects ,relations etc
+## Day 2: Sequences in python
+ - Worked on various operations like intersection , difference etc
+## Day 3: Linked-List Data Structure
+  - Create Linked-List Data Structure.implemented various operations on it  
+## Day 4: Class and Object
+  - Had a understanding of creating a class and learnt the difference between class and object.
 ## Day 5:Implemented Stack and Queue
 - Implemented stack and queue using circular linked list
 
