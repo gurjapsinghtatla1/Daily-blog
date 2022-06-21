@@ -4,11 +4,11 @@ Daily Dairy
 
 
  **Week 1: 31 January to 8 February**
-    Day 1: Introduction-    
-  - Introduction to company Discussed about programming languages  scope in near future.
+ Day 1: Introduction-    
+ - Introduction to company Discussed about programming languages  scope in near future.
     
-    Day 2: Tour Of python 3.0
-   - Basic paradigm followed by python
+ Day 2: Tour Of python 3.0
+ - Basic paradigm followed by python
 
     Day 3:Documentation ,Models 
         - Learned the importance of documentation in the code , Implemented the model.
