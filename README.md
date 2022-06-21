@@ -14,31 +14,25 @@ Daily Dairy
  - Create multi-value container object in JS. Use it to store the common data of multiple objects. Implement getter and setter for an object
 ## Day 5: Operators
 - Explored various operators 
-.
-
-    Day 6: Conditional Statements
-       Explored various conditional statement , built a shopping cart doc program using conditional statements
-.
-
-    Day 7: Recursion
-       Learnt the importance of recursion , robust code.
+## Day 6: Conditional Statements
+- Explored various conditional statement , built a shopping cart doc program using conditional statements
+## Day 7: Recursion
+- Learnt the importance of recursion , robust code.
 .
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-
- **Week 2 : 9 February to 17 February**
-    Day 1: Introduction to OOPS
-       Introduction to Object Oriented Programming methodology ,creating objects ,relations etc
-    Day 2: Sequences in python
-       Worked on various operations like intersection , difference etc
-    Day 3: Linked-List Data Structure
-      Create Linked-List Data Structure.implemented various operations on it  
-    Day 4: Class and Object
-      Had a understanding of creating a class and learnt the difference between class and object.
-
-    Day 5:Implemented Stack and Queue
-      Implemented stack and queue using circular linked list
+**Week 2 : 9 February to 17 February**
+ ## Day 1: Introduction to OOPS
+  - Introduction to Object Oriented Programming methodology ,creating objects ,relations etc
+  ## Day 2: Sequences in python
+  - Worked on various operations like intersection , difference etc
+  ## Day 3: Linked-List Data Structure
+   - Create Linked-List Data Structure.implemented various operations on it  
+  ## Day 4: Class and Object
+   - Had a understanding of creating a class and learnt the difference between class and object.
+## Day 5:Implemented Stack and Queue
+- Implemented stack and queue using circular linked list
 
     Day 6: Functions
        Explored on making functions more robust
