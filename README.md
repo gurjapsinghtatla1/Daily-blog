@@ -84,7 +84,7 @@ Daily Dairy
 ## Day 2: Tour of Machine Learning 
 - Got an exposure to machine learning algorithm
 
- ## Day 3: Assignment 1
+## Day 3: Assignment 1
 - Represent COVID 19 data in data structures.  https://www.covid19india.org/.
 ## Day 4: Assignment 2
  - Code OLA/Uber Use Case with RTP AND implemented bubble sort on Linklist.
