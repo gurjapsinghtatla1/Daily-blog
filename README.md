@@ -6,14 +6,11 @@ Daily Dairy
  **Week 1: 31 January to 8 February**<BR>
  Day 1: Introduction-    
  - Introduction to company Discussed about programming languages  scope in near future.
-  <BR>  
+  <>  
  Day 2: Tour Of python 3.0
-   - Basic paradigm followed by python
-.
-<br>
-    Day 3:Documentation ,Models 
-.
-<br>        - Learned the importance of documentation in the code , Implemented the model.
+- Basic paradigm followed by python
+Day 3:Documentation ,Models 
+- Learned the importance of documentation in the code , Implemented the model.
 
     Day 4: Data Structures in python
         - Create multi-value container object in JS. Use it to store the common data of multiple objects. Implement getter and setter for an object
