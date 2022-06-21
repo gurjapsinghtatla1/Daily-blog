@@ -3,7 +3,7 @@ Daily Dairy
 
 
 
- ** Week 1: 31 January to 8 February **
+ **Week 1: 31 January to 8 February**
     Day 1: Introduction-    
         Introduction to company Discussed about programming languages  scope in near future.
     
